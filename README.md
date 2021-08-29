@@ -7,6 +7,7 @@ Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- JavaScript
 
 Users should be able to:
 
